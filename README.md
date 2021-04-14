@@ -1,1 +1,1 @@
-"# simple-python-mysql-connector" 
+# simple-python-mysql-connector
